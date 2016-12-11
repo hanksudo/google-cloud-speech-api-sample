@@ -1,0 +1,10 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "sampleRate": 16000,
+      "languageCode": "ja-JP"
+  },
+  "audio": {
+      "uri":"gs://<your-project-name>.appspot.com/k10010798551000.raw"
+  }
+}
